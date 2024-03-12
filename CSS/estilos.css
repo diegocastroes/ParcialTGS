@@ -1,0 +1,53 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+img{
+    float: left;
+    margin-right: 20px;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li{
+    margin-bottom: 10px;
+}
+.tit{
+    color: rgb(0, 208, 255);
+    text-align: center;
+}
+.sub{
+    text-align: center;
+    color: rgb(0, 208, 255);
+}
+.par{
+    text-align: left;
+    color: aliceblue;
+}
+.esp{
+
+    padding: 10px;
+    color: aliceblue;
+}
+body{
+    background-image: url(/IMG/1.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+.img{
+    float: right;
+    border-radius: 20%;
+    
+}
+footer{
+     
+    background-color: aquamarine;
+    padding: 1%;
+    text-align: center;
+    width: 10%;
+    bottom: 0;
+}
